@@ -1,1 +1,1 @@
-# kitchen-segmention-classificationifi
+# kitchen-segmention-classification
