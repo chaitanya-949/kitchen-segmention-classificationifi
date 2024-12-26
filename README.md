@@ -1,4 +1,4 @@
-# Kitchen Layout Classification and Object Detection
+# Kitchen Layout Classification and segmenting objects
 
 This project uses Detectron2 for instance segmentation and ResNet18 for classification of kitchen layouts (e.g., L-shaped, U-shaped, Parallel). It includes steps for training, testing, and inference, along with a utility to calculate dimensions of objects using bounding box predictions. Data annotation was done using LabelMe.
 
